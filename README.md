@@ -1,4 +1,6 @@
-<h1>Hi, I'm Artesia , an <a href="https://www.linkedin.com/in/artesia-jackson88">IT Professional</a>☺</h1>    
+                                      <h1>Hi, I'm Artesia , an <a href="https://www.linkedin.com/in/artesia-jackson88">IT Professional</a>☺</h1>    
+- 🌱 I’m currently studying for **CompTIA A+ Certification**
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
